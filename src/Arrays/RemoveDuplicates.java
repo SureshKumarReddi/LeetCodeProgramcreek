@@ -25,7 +25,7 @@ public class RemoveDuplicates {
 				k++;
 			}
 		}
-
+//i have added comment
 		for (int i = 0; i < count; i++) {
 			System.out.print(arr[i] + " ");
 
